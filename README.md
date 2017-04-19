@@ -1,4 +1,7 @@
-# test coverage for  [ember-cli (v2.12.1)](https://ember-cli.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli)
+# npmtest-ember-cli
+
+#### test coverage for  [ember-cli (v2.12.1)](https://ember-cli.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli)
+
 #### Command line tool for developing ambitious ember.js apps
 
 [![NPM](https://nodei.co/npm/ember-cli.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-cli)
