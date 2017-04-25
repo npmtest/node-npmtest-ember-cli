@@ -1,6 +1,6 @@
 # npmtest-ember-cli
 
-#### test coverage for  [ember-cli (v2.12.1)](https://ember-cli.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli)
+#### basic test coverage for  [ember-cli (v2.12.2)](https://ember-cli.com/)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli)
 
 #### Command line tool for developing ambitious ember.js apps
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-ember-cli/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-ember-cli/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-ember-cli/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-ember-cli/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ember-cli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ember-cli/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-ember-cli/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-ember-cli/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-ember-cli/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-ember-cli/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-ember-cli/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-ember-cli/build/coverage.html/index.html)
 
@@ -154,8 +154,8 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "33dd9341677f67f29bc0e286b129877ee15e5bcb",
-        "tarball": "https://registry.npmjs.org/ember-cli/-/ember-cli-2.12.1.tgz"
+        "shasum": "eccae6359e5d4e49d509e6391dcdf1961848377a",
+        "tarball": "https://registry.npmjs.org/ember-cli/-/ember-cli-2.12.2.tgz"
     },
     "engines": {
         "node": "^4.5 || 6.* || 7.*"
@@ -224,7 +224,7 @@
         "test:debug": "node debug tests/runner"
     },
     "trackingCode": "UA-49225444-1",
-    "version": "2.12.1"
+    "version": "2.12.2"
 }
 ```
 
